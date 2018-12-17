@@ -1,6 +1,8 @@
 # Wyrick-s_Repo_List
 My personal cydia repo list
 
+apt.saurik.com
+http://apt.saurik.com/beta/substrate11/ - New Cydia Substrate 0.9.7000 for Unc0ver Jailbreak
 
 Apple Betas' Repo
 http://repo.applebetas.co/ - New Cydia Repo for "iOS 11.0 -11.4b3"
