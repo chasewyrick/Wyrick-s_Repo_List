@@ -4,8 +4,14 @@ My personal cydia repo list
 apt.saurik.com
 http://apt.saurik.com/beta/substrate11/ - New Cydia Substrate 0.9.7000 for Unc0ver Jailbreak
 
+AppCake Repo
+http://cydi.iphonecake.com/
+
 Apple Betas' Repo
 http://repo.applebetas.co/ - New Cydia Repo for "iOS 11.0 -11.4b3"
+
+Bingner
+http://repo.bingner.com/
 
 Bingner/Elucubratus
 https://apt.bingner.com - Main Repo for Unc0ver Jailbreak (iOS 11.0 - 11.4b3)
@@ -16,6 +22,8 @@ http://apt.thebigboss.org/repofiles/cydia/ - A Cydia default repo
 beta.unlimapps.com
 http://beta.unlimapps.com/ - ++Tweaks & More cool tweaks
 
+https://c1d3r.com/repo/
+
 Chariz
 https://repo.chariz.io/ - New Cydia Default Repo for "iOS 11.0 - 11.4b3"
 
@@ -25,11 +33,23 @@ http://coolstar.org/publicrepo/
 CokePokes
 http://cokepokes.github.io/ - AppStore++ (Allows you to downgrade/upgrade apps in the AppStore)
 
+CreatureSurvive's Repo
+http://creaturesurvive.github.io/ -Bubbles (Darkmode) for iMessages
+
 Delta
 http://getdelta.co/ - Flex 3 Beta (Develop your own tweaks and share them on the cloud)
 
 Dynastic Repo
 https://repo.dynastic.co/ - BetterSettings, ShortLook, and many more (Tweaks)
+
+Fouad's Repo
+https://apt.fouadraheb.com/
+
+Hollr2099.net Cydia Repo
+https://repo.hollr2099.net/
+
+ichitaso repository
+https://cydia.ichitaso.com/
 
 Ivano Bilenchi's Repo
 https://ib-soft.net/cydia/ - iCleaner Pro (Utilites)
@@ -66,4 +86,10 @@ https://smacpats.github.io/repo/ - EmojiPort Installer (iOS 12.1 Emojis) & Emoji
 
 TIGI Software
 http://tigisoftware.com/cydia/    - Filza File Manager & Apps Manager (Utilites)
+
+The Casle's beta Repo
+https://the-casle.github.io/cydia
+
+Xarold Repo (Pirate Repo)
+http://repo.xarold.com
 
