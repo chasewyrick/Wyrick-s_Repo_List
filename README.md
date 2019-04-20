@@ -75,11 +75,29 @@ https://repo.nullpixel.uk/ - TSS Saver (Utilites)
 Packix
 https://repo.packix.com/ - New Cydia Repo "iOS 11.0 - 11.4b3"
 
+PizelOmer's Repo
+http://repo.pixelomer.com/
+
 PoomSmart's Repo
 http://poomsmart.github.io/repo/ - Needed for EmojiPort Installer (Emojis for iOS 12.1 - iOS 5.1) 
 
+Pulandres Repository
+https://pulandres.rejail.ru/
+
+Pw5a29 Repo
+http://Pw5a29.github.io/
+
 Pwn20wnd's Cydia Repo
 http://xnu.science/repo/ - Pwn20wnd's Cydia Repo  (Pwn20wnd's Twitter) - https://twitter.com/Pwn20wnd/
+
+Ryley's Repo
+https://ryleyangus.com/repo/
+
+Samg_is_a_Ninja Repo
+https://samisaninja.github.io/
+
+Sileo for Unc0ver
+https://diatr.us/sileo/
 
 Smacpat's Repo
 https://smacpats.github.io/repo/ - EmojiPort Installer (iOS 12.1 Emojis) & EmojiPort Installer (Android P Emojis)
