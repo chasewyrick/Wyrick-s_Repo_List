@@ -36,14 +36,26 @@ http://cokepokes.github.io/ - AppStore++ (Allows you to downgrade/upgrade apps i
 CreatureSurvive's Repo
 http://creaturesurvive.github.io/ -Bubbles (Darkmode) for iMessages
 
+CreatureSurvive's Repo (NEW)
+https://creaturecoding.com/repo/
+
 Delta
 http://getdelta.co/ - Flex 3 Beta (Develop your own tweaks and share them on the cloud)
 
 Dynastic Repo
 https://repo.dynastic.co/ - BetterSettings, ShortLook, and many more (Tweaks)
 
+DzMoha Repo
+http://mohadu31.com/
+
 Fouad's Repo
 https://apt.fouadraheb.com/
+
+GMoran Beta Software
+https://gmoran.me/repo/
+
+HackYouriPhone (Pirate Repo)
+http://repo.hackyouriphone.org/
 
 Hollr2099.net Cydia Repo
 https://repo.hollr2099.net/
@@ -60,17 +72,32 @@ http://apt.iarrays.com/ Good Cydia Repo to use on iOS 11 & Bellow
 Jakeashacks Repo
 https://jakeashacks.ga (Open in iOS Safari Browser)
 
+Julioverne's Repo
+http://julioverne.github.io/
+
 Karen's Repo
 http://cydia.angelxwind.net - AppSync Unified (Use to allow for the installation of unsigned, fakesigned, or ad-hoc signed IPA packages on an iOS device)
+
+Karen's Repo (NEW)
+https://cydia.akemi.ai/ 
 
 limneos.net
 http://limneos.net/repo/ - The best paid tweaks and my all time favorite developers 
 
-Matchstic
+LacertosusDeus's Repo
+https://lacertosusrepo.github.io/
+
+m156nrkvv.g2.xrea.com
+http://m156nrkvv.g2.xrea.com/repo/
+
+Matchstic (Matt  Clarke)
 http://repo.incendo.ws/ - Reprovision (Re-sign applications on your device) (System) 
 
 NullPixel's Repo
 https://repo.nullpixel.uk/ - TSS Saver (Utilites)
+
+Nepeta Repo
+https://repo.nepeta.me/
 
 Packix
 https://repo.packix.com/ - New Cydia Repo "iOS 11.0 - 11.4b3"
@@ -102,11 +129,17 @@ https://diatr.us/sileo/
 Smacpat's Repo
 https://smacpats.github.io/repo/ - EmojiPort Installer (iOS 12.1 Emojis) & EmojiPort Installer (Android P Emojis)
 
+SparkDev Repo
+https://sparkdev.me/
+
 TIGI Software
 http://tigisoftware.com/cydia/    - Filza File Manager & Apps Manager (Utilites)
 
 The Casle's beta Repo
 https://the-casle.github.io/cydia
+
+UnlimApps Repo
+http://beta.unlimapps.com/
 
 Xarold Repo (Pirate Repo)
 http://repo.xarold.com
