@@ -151,4 +151,4 @@ Xarold Repo (Pirate Repo)
 <del>http://repo.xarold.com</del>
 
 xTM3x Repo
-https://xtm3x.github.io/repo/ <<u>Zebra Packager</u>
+https://xtm3x.github.io/repo/ <u>Zebra Packager</u>
