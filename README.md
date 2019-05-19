@@ -58,7 +58,7 @@ HackYouriPhone (Pirate Repo)
 http://repo.hackyouriphone.org/
 
 Hollr2099.net Cydia Repo
-https://repo.hollr2099.net/
+<del>https://repo.hollr2099.net/</del>
 
 ichitaso repository
 https://cydia.ichitaso.com/
@@ -148,5 +148,5 @@ UnlimApps Repo
 http://beta.unlimapps.com/
 
 Xarold Repo (Pirate Repo)
-http://repo.xarold.com
+<del>http://repo.xarold.com</del>
 
