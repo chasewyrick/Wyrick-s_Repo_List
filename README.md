@@ -111,6 +111,9 @@ http://poomsmart.github.io/repo/ - Needed for EmojiPort Installer (Emojis for iO
 Pulandres Repository
 https://pulandres.rejail.ru/
 
+Pulandres Repo (NEW)
+https://pulandres.me/repo/
+
 Pw5a29 Repo
 http://Pw5a29.github.io/
 
@@ -122,6 +125,9 @@ https://ryleyangus.com/repo/
 
 Samg_is_a_Ninja Repo
 https://samisaninja.github.io/
+
+SarahH12099 Repo
+https://sarahh12099.github.io/repo/
 
 Sileo for Unc0ver
 https://diatr.us/sileo/
