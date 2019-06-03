@@ -75,8 +75,8 @@ https://jakeashacks.ga (Open in iOS Safari Browser)
 Julioverne's Repo
 http://julioverne.github.io/
 
-Karen's Repo
-http://cydia.angelxwind.net - AppSync Unified (Use to allow for the installation of unsigned, fakesigned, or ad-hoc signed IPA packages on an iOS device)
+Karen's Repo (OLD)
+<del>http://cydia.angelxwind.net</del> - AppSync Unified (Use to allow for the installation of unsigned, fakesigned, or ad-hoc signed IPA packages on an iOS device)
 
 Karen's Repo (NEW)
 https://cydia.akemi.ai/ 
@@ -136,8 +136,8 @@ Smacpat's Repo
 https://smacpats.github.io/repo/ - EmojiPort Installer (iOS 12.1 Emojis) & EmojiPort Installer (Android P Emojis)
 
 SparkDev Repo
-https://sparkdev.me/
-
+    (OLD) http://beta.sparkservers.co.uk/
+    (NEW) https://sparkdev.me/
 TIGI Software
 http://tigisoftware.com/cydia/    - Filza File Manager & Apps Manager (Utilites)
 
