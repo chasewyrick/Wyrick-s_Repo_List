@@ -69,11 +69,19 @@ https://ib-soft.net/cydia/ - iCleaner Pro (Utilites)
 IArrays
 http://apt.iarrays.com/ Good Cydia Repo to use on iOS 11 & Bellow
 
+ichitaso repository
+https://cydia.ichitaso.com/
+
+iDevice Hacked Repo
+https://idevicehacked.com/
+
 Jakeashacks Repo
 https://jakeashacks.ga (Open in iOS Safari Browser)
 
 Julioverne's Repo
 http://julioverne.github.io/
+
+(New) http://julio.hackyouriphone.org/
 
 Karen's Repo (OLD)
 <del>http://cydia.angelxwind.net</del> - AppSync Unified (Use to allow for the installation of unsigned, fakesigned, or ad-hoc signed IPA packages on an iOS device)
@@ -152,3 +160,6 @@ Xarold Repo (Pirate Repo)
 
 xTM3x Repo
 https://xtm3x.github.io/repo/ <u>Zebra Packager</u>
+
+4nni3 Reo
+https://repo.4nni3.com/
