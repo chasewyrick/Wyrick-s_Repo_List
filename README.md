@@ -95,6 +95,9 @@ http://limneos.net/repo/ - The best paid tweaks and my all time favorite develop
 LacertosusDeus's Repo
 https://lacertosusrepo.github.io/
 
+Lakr Aream Repo
+https://LakrOwO.gitee.io/repo/ (Saily Store)
+
 m156nrkvv.g2.xrea.com
 http://m156nrkvv.g2.xrea.com/repo/
 
@@ -115,6 +118,9 @@ http://repo.pixelomer.com/
 
 PoomSmart's Repo
 http://poomsmart.github.io/repo/ - Needed for EmojiPort Installer (Emojis for iOS 12.1 - iOS 5.1) 
+
+PPSSPP Repo
+https://cydiappsspp.org/ (PPSSPP App)
 
 Pulandres Repository
 https://pulandres.rejail.ru/
