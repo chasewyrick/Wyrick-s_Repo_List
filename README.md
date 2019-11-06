@@ -98,6 +98,9 @@ https://lacertosusrepo.github.io/
 Lakr Aream Repo
 https://LakrOwO.gitee.io/repo/ (Saily Store)
 
+MCApollo Repo (Network Hacking)
+https://mcapollo.github.io/Public
+
 m156nrkvv.g2.xrea.com
 http://m156nrkvv.g2.xrea.com/repo/
 
