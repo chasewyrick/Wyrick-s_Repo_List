@@ -126,16 +126,24 @@ PPSSPP Repo
 https://cydiappsspp.org/ (PPSSPP App)
 
 Pulandres Repository
-https://pulandres.rejail.ru/
+<del>https://pulandres.rejail.ru/</del> (Taken Down)
 
 Pulandres Repo (NEW)
-https://pulandres.me/repo/
+<del>https://pulandres.me/repo/</del> (Taken Down)
+
+
 
 Pw5a29 Repo
 http://Pw5a29.github.io/
 
 Pwn20wnd's Cydia Repo
 http://xnu.science/repo/ - Pwn20wnd's Cydia Repo  (Pwn20wnd's Twitter) - https://twitter.com/Pwn20wnd/
+
+qwertyuiop1379's repo 
+http://qwertyuiop1379.com:7777/
+
+ReJail Repo
+https://rejail.ru/
 
 Ryley's Repo
 https://ryleyangus.com/repo/
@@ -155,11 +163,18 @@ https://smacpats.github.io/repo/ - EmojiPort Installer (iOS 12.1 Emojis) & Emoji
 SparkDev Repo
     (OLD) http://beta.sparkservers.co.uk/
     (NEW) https://sparkdev.me/
+
+Sukas Repo
+https://repo.sukarodo.me/
+
 TIGI Software
 http://tigisoftware.com/cydia/    - Filza File Manager & Apps Manager (Utilites)
 
 The Casle's beta Repo
 https://the-casle.github.io/cydia
+
+twickd repo
+https://repo.twickd.com/
 
 UnlimApps Repo
 http://beta.unlimapps.com/ <u>AppStore++</u>
