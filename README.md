@@ -4,8 +4,21 @@ My personal cydia repo list
 apt.saurik.com
 http://apt.saurik.com/beta/substrate11/ - New Cydia Substrate 0.9.7000 for Unc0ver Jailbreak
 
-AppCake Repo
+AppCake Repo    (2020)
 http://cydia.iphonecake.com/
+
+akusio.github.io     (2020)
+https://akusio.github.io/
+
+AppTapp Repository   (2020)
+https://apptapp.me/repo/
+
+apt.htv123.com  (2020)
+https://apt.htv123.com/
+
+
+Avalon Studios  (2020)
+https://repo.avalon-studios.de/
 
 Apple Betas' Repo
 http://repo.applebetas.co/ - New Cydia Repo for "iOS 11.0 -11.4b3"
@@ -22,6 +35,10 @@ http://apt.thebigboss.org/repofiles/cydia/ - A Cydia default repo
 beta.unlimapps.com
 http://beta.unlimapps.com/ - ++Tweaks & More cool tweaks
 
+build.frida.re
+https://build.frida.re/
+
+C1d3r Repo
 https://c1d3r.com/repo/
 
 Chariz
@@ -30,8 +47,14 @@ https://repo.chariz.io/ - New Cydia Default Repo for "iOS 11.0 - 11.4b3"
 CoolStar's Repo
 http://coolstar.org/publicrepo/
 
+Cokernutx
+https://repo.cokernutx.com/
+
 CokePokes
 http://cokepokes.github.io/ - AppStore++ (Allows you to downgrade/upgrade apps in the AppStore)
+
+ConorTheDev's Repo
+https://repo.conorthedev.me/
 
 CreatureSurvive's Repo
 http://creaturesurvive.github.io/ -Bubbles (Darkmode) for iMessages
@@ -42,14 +65,23 @@ https://creaturecoding.com/repo/
 Delta
 http://getdelta.co/ - Flex 3 Beta (Develop your own tweaks and share them on the cloud)
 
+DGh0st
+https://dgh0st.github.io/
+
 Dynastic Repo
 https://repo.dynastic.co/ - BetterSettings, ShortLook, and many more (Tweaks)
 
 DzMoha Repo
 http://mohadu31.com/
 
+EsquilliDev
+https://esquillidev.github.io/
+
 Fouad's Repo
 https://apt.fouadraheb.com/
+
+Greg0109 Source - YouRepo
+https://greg0109.yourepo.com/
 
 GMoran Beta Software
 https://gmoran.me/repo/
@@ -62,6 +94,21 @@ Hollr2099.net Cydia Repo
 
 ichitaso repository
 https://cydia.ichitaso.com/
+
+iCaughtU
+https://www.icaughtuapp.com/repo/
+
+iDevice Hacked Repository
+https://idevicehacked.com
+
+iOS Emulators
+https://johan.margueritte.free.fr/repo/
+
+iPodHacks142's Repo
+https://repo.ipodhacks142.com/
+
+iTweakiOS Source - YouRepo
+https://itweakios.yourepo.com/
 
 Ivano Bilenchi's Repo
 https://ib-soft.net/cydia/ - iCleaner Pro (Utilites)
@@ -87,10 +134,10 @@ Karen's Repo (OLD)
 <del>http://cydia.angelxwind.net</del> - AppSync Unified (Use to allow for the installation of unsigned, fakesigned, or ad-hoc signed IPA packages on an iOS device)
 
 Karen's Repo (NEW)
-https://cydia.akemi.ai/ 
+https://cydia.akemi.ai/
 
 limneos.net
-http://limneos.net/repo/ - The best paid tweaks and my all time favorite developers 
+http://limneos.net/repo/ - The best paid tweaks and my all time favorite developers
 
 LacertosusDeus's Repo
 https://lacertosusrepo.github.io/
@@ -108,7 +155,7 @@ m156nrkvv.g2.xrea.com
 http://m156nrkvv.g2.xrea.com/repo/
 
 Matchstic (Matt  Clarke)
-http://repo.incendo.ws/ - Reprovision (Re-sign applications on your device) (System) 
+http://repo.incendo.ws/ - Reprovision (Re-sign applications on your device) (System)
 
 NullPixel's Repo
 https://repo.nullpixel.uk/ - TSS Saver (Utilites)
@@ -123,7 +170,7 @@ PizelOmer's Repo
 http://repo.pixelomer.com/
 
 PoomSmart's Repo
-http://poomsmart.github.io/repo/ - Needed for EmojiPort Installer (Emojis for iOS 12.1 - iOS 5.1) 
+http://poomsmart.github.io/repo/ - Needed for EmojiPort Installer (Emojis for iOS 12.1 - iOS 5.1)
 
 PPSSPP Repo
 https://cydiappsspp.org/ (PPSSPP App)
@@ -143,7 +190,7 @@ http://Pw5a29.github.io/
 Pwn20wnd's Cydia Repo
 http://xnu.science/repo/ - Pwn20wnd's Cydia Repo  (Pwn20wnd's Twitter) - https://twitter.com/Pwn20wnd/
 
-qwertyuiop1379's repo 
+qwertyuiop1379's repo
 http://qwertyuiop1379.com:7777/
 
 ReJail Repo
