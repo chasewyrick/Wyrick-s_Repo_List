@@ -1,10 +1,13 @@
-# Wyrick-s_Repo_List
+# Wyrick-s_Repo_List(2021)
 My personal cydia repo list
+
+1Conan Repo
+https://repo.1conan.com/
 
 apt.saurik.com
 http://apt.saurik.com/beta/substrate11/ - New Cydia Substrate 0.9.7000 for Unc0ver Jailbreak
 
-AppCake Repo    (2020)
+AppCake Repo    (2020)   
 http://cydia.iphonecake.com/
 
 akusio.github.io     (2020)
@@ -40,6 +43,9 @@ https://build.frida.re/
 
 C1d3r Repo
 https://c1d3r.com/repo/
+
+Cadoth Repo
+https://repo.cadoth.net/
 
 Chariz
 https://repo.chariz.io/ - New Cydia Default Repo for "iOS 11.0 - 11.4b3"
@@ -125,7 +131,7 @@ https://idevicehacked.com/
 Jakeashacks Repo
 https://jakeashacks.ga (Open in iOS Safari Browser)
 
-Julioverne's Repo
+Julioverne's Repo          (Pirate)
 http://julioverne.github.io/
 
 (New) http://julio.hackyouriphone.org/
@@ -145,7 +151,7 @@ https://lacertosusrepo.github.io/
 Lakr Aream Repo
 https://LakrOwO.gitee.io/repo/ (Saily Store)
 
-MainRepo
+MainRepo               (Pirate)
 https://mainrepo.org/
 
 MCApollo Repo (Network Hacking)
@@ -175,11 +181,11 @@ http://poomsmart.github.io/repo/ - Needed for EmojiPort Installer (Emojis for iO
 PPSSPP Repo
 https://cydiappsspp.org/ (PPSSPP App)
 
-Pulandres Repository
-<del>https://pulandres.rejail.ru/</del> (Taken Down)
+Pulandres Repository           (Pirate)
+<del>https://pulandres.rejail.ru/</del> (Taken Down 2020)
 
 Pulandres Repo (NEW)
-<del>https://pulandres.me/repo/</del> (Taken Down)
+<del>https://pulandres.me/repo/</del> (Taken Down 2020)
 
 Pwnder's Repo
 https://pwnders.github.io/repo/
@@ -193,7 +199,7 @@ http://xnu.science/repo/ - Pwn20wnd's Cydia Repo  (Pwn20wnd's Twitter) - https:/
 qwertyuiop1379's repo
 http://qwertyuiop1379.com:7777/
 
-ReJail Repo
+ReJail Repo           (Pirate)
 https://rejail.ru/
 
 Ryley's Repo
@@ -230,7 +236,7 @@ https://repo.twickd.com/
 UnlimApps Repo
 http://beta.unlimapps.com/ <u>AppStore++</u>
 
-Xarold Repo (Pirate Repo)
+Xarold Repo (Pirate)
 <del>http://repo.xarold.com</del>
 
 xTM3x Repo
