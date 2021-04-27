@@ -89,6 +89,9 @@ https://apt.fouadraheb.com/
 Greg0109 Source - YouRepo
 https://greg0109.yourepo.com/
 
+GeoSn0w iSecureOS Repo
+https://github.com/GeoSn0w/iSecureOS
+
 GMoran Beta Software
 https://gmoran.me/repo/
 
